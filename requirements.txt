@@ -1,0 +1,5 @@
+pandas
+wordcloud
+nltk
+scikit-learn
+xgboost
